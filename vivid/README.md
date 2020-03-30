@@ -6,7 +6,7 @@
 # Vivid
 
 The title of this website is Vivid.
-Motto: 
+<p>Motto: Make use of the day!</p>
 
 <h2>Description</h2>
 Vivid is a an app to help you fight boredom. This app will help you find unlimited things to do when you find yourself bored. The app will list random activities with a random number of participants. The types of activities range from educational, relaxation, cooking, etc. There is no reason to have idle time when you have Vivid!
