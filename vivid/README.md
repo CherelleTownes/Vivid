@@ -28,7 +28,7 @@ Vivid is a an app to help you fight boredom. This app will help you find unlimit
 </p>
 
 <h2>Component Hierarchy</h2> 
-<img src="Images/React-Tree.png" width="200">
+<img src="Images/React-Tree.png">
 
 
 <h2>API</h2>
