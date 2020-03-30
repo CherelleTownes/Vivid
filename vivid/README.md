@@ -1,7 +1,5 @@
-![Alt Text](https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif)
-
 <p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif">
+  <img src="https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif">
 </p>
 
 
