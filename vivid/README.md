@@ -32,7 +32,8 @@ Vivid is a an app to help you fight boredom. This app will help you find unlimit
 
 
 <h2>API</h2>
-https://www.boredapi.com/
+<p>https://www.boredapi.com/</p>
+<p>https://sv443.net/jokeapi</p>
 
 <h2>MVP</h2>
 Minimum Goals - Create 6 components, place proper routes, and utilize Storybook to create 5 reuseable components. Need to have features: the ability for people to select the button if they like the task or do not like the take. The option for someone to have a funny joke told to them if they do not wish to complete the task. 
