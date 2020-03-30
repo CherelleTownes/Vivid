@@ -1,68 +1,40 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<iframe src="https://giphy.com/embed/3og0IFrHkIglEOg8Ba" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/universe-spiral-galaxy-star-cluster-vortex-konczakowski-3og0IFrHkIglEOg8Ba">via GIPHY</a></p>
 
-## Available Scripts
 
-In the project directory, you can run:
+# Vivid
 
-### `npm start`
+<h1>Vivid</h1>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The title of this website is Vivid.
+Motto: 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Description:
+Vivid is a an app to help you fight boredom. This app will help you find unlimited things to do when you find yourself bored. The app will list random activities with a random number of participants. The types of activities range from educational, relaxation, cooking, etc. There is no reason to have idle time when you have Vivid!
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Wireframes: 
+Desktop -
+<img src="Images/Desktop-Wireframe-1.jpg" width="200">
+<img src="Images/Desktop-Wireframe-2.jpg" width="200">
+<img src="Images/Desktop-Wireframe-3.jpg" width="200">
 
-### `npm run build`
+Tablets and Mobile -
+<img src="Images/Tablet-Mobile-1.png" width="200">
+<img src="Images/Tablet-Mobile-2.png" width="200">
+<img src="Images/Tablet-Mobile-3.png" width="200">
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Component Hierarchy: 
+<img src="Images/React-Tree.png" width="200">
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+API: 
+https://www.boredapi.com/
 
-### `npm run eject`
+MVP: 
+Minimum Goals - Create 6 components, place proper routes, and utilize Storybook to create 5 reuseable components. Need to have features: the ability for people to select the button if they like the task or do not like the take. The option for someone to have a funny joke told to them if they do not wish to complete the task. 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Post-MVP: 
+Nice to have features - A graph or some type of fun feature showing how many people actually completed the tasks given to them so it can encourage others to complete the task. 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+SWOT Analysis:
+I will overcome my weakness by starting on those areas first to minimize any errors later in the week. 
