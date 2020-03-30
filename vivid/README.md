@@ -1,10 +1,8 @@
-<a href="https://giphy.com/gifs/universe-spiral-galaxy-star-cluster-vortex-konczakowski-3og0IFrHkIglEOg8Ba"></a>
+https://giphy.com/gifs/3og0IFrHkIglEOg8Ba/html5
 
+# Vivid
 
-                                                      # Vivid
-
-
-The title of this website is Vivid.
+The title of this website is <h4>Vivid</h4>.
 Motto: 
 
 <h2>Description:</h2>
