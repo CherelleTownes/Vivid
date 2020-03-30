@@ -1,5 +1,7 @@
 ![Alt Text](https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif)
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
 # Vivid
 
 The title of this website is Vivid.
