@@ -15,20 +15,20 @@ Vivid is a an app to help you fight boredom. This app will help you find unlimit
 <h2>Wireframes</h2> 
 <h3>Desktop -</h3>
 <p float="left">
-<img src="Images/Desktop-Wireframe-1.jpg" width="300">
-<img src="Images/Desktop-Wireframe-2.jpg" width="300">
-<img src="Images/Desktop-Wireframe-3.jpg" width="300">
+<img src="vivid/Images/Desktop-Wireframe-1.jpg" width="300">
+<img src="vivid/Images/Desktop-Wireframe-2.jpg" width="300">
+<img src="vivid/Images/Desktop-Wireframe-3.jpg" width="300">
   </p>
 
 <h3>Tablets and Mobile -</h3>
 <p float="left">
-<img src="Images/Tablet-Mobile-1.png" width="300">
-<img src="Images/Tablet-Mobile-2.png" width="300">
-<img src="Images/Tablet-Mobile-3.png" width="300">
+<img src="vivid/Images/Tablet-Mobile-1.png" width="300">
+<img src="vivid/Images/Tablet-Mobile-2.png" width="300">
+<img src="vivid/Images/Tablet-Mobile-3.png" width="300">
 </p>
 
 <h2>Component Hierarchy</h2> 
-<img src="Images/React-Tree.png">
+<img src="vivid/Images/React-Tree.png">
 
 
 <h2>API</h2>
