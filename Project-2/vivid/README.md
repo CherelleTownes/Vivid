@@ -15,20 +15,20 @@ Vivid is a an app to help you fight boredom. This app will suggest an unlimited 
 <h2>Wireframes</h2> 
 <h3>Desktop -</h3>
 <p float="left">
-<img src="vivid/Images/Desktop-Wireframe-1.jpg" width="300">
-<img src="vivid/Images/Desktop-Wireframe-2.jpg" width="300">
-<img src="vivid/Images/Desktop-Wireframe-3.jpg" width="300">
+<img src="Images/Desktop-Wireframe-1.jpg" width="300">
+<img src="Images/Desktop-Wireframe-2.jpg" width="300">
+<img src="Images/Desktop-Wireframe-3.jpg" width="300">
   </p>
 
 <h3>Tablets and Mobile -</h3>
 <p float="left">
-<img src="vivid/Images/Tablet-Mobile-1.png" width="300">
-<img src="vivid/Images/Tablet-Mobile-2.png" width="300">
-<img src="vivid/Images/Tablet-Mobile-3.png" width="300">
+<img src="Images/Tablet-Mobile-1.png" width="300">
+<img src="Images/Tablet-Mobile-2.png" width="300">
+<img src="Images/Tablet-Mobile-3.png" width="300">
 </p>
 
 <h2>Component Hierarchy</h2> 
-<img src="vivid/Images/React-Tree.png">
+<img src="Images/React-Tree.png">
 
 
 <h2>API</h2>
@@ -42,4 +42,4 @@ Minimum Goals - Create 6 components, place proper routes, and utilize Storybook 
 Nice to have features - A graph or some type of fun feature showing how many people actually completed the tasks given to them so it can encourage others to complete the task. The option the user select to have a funny joke told to them if they do not wish to complete the task. 
 
 <h2>SWOT Analysis</h2>
-I will overcome my weakness by starting on those areas first to minimize any errors later in the week. 
+
