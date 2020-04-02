@@ -8,7 +8,8 @@ function Header() {
         
       <header>
         <img src="#"></img>
-      </header>
+        </header>
+        
       
         <ul>
         <Link exact to="/"><li>Home</li></Link>

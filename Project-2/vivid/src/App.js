@@ -13,9 +13,16 @@ import Jokes from './Components/Jokes/Jokes';
 function App () {
   return (
     <div>
-
+     
+      <div className="top-triangle-container">
+      <div className="top-left-triangle">
+        </div>
+        <div className="top-right-triangle">
+      </div>
+      </div>
+       
       <header>
-        <Link exact to="/"><p>Logo</p></Link> 
+        <Link exact to="/"><img src="Images/Vivid-Trans-logo.png" alt="Logo"></img></Link> 
       </header>
 
   <h1>THIS IS OUTSIDE</h1>
@@ -33,6 +40,18 @@ function App () {
        <Route path="/Jokes" render={() => (
         <Jokes/>
       )} />
+
+<div className="bottom-triangle-container">
+      <div className="bottom-left-triangle">
+        </div>
+        <div className="bottom-right-triangle">
+      </div>
+      </div>
+
+
+
+
+
 
     </div>
   );

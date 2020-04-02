@@ -1,3 +1,5 @@
+
+
 /* ===============================================
 ====================ALL BUTTONS=================== 
 ==================================================*/
@@ -11,7 +13,7 @@ button {
 /* ================================================== */
 
 
-.jokePageButtonOne  {
+.boredPageButtonOne {
   display: inline-block;
   padding: 45px 80px;
   font-size: 28px;
@@ -26,15 +28,15 @@ button {
   box-shadow: 0 9px #2FEEF5;
 }
 
-.jokePageButtonOne:hover {background-color: rgb(148, 17, 95)}
+.boredPageButtonOne:hover {background-color: rgb(148, 17, 95)}
 
-.jokePageButtonOne :active {
+.boredPageButtonOne :active {
   background-color: white;
   box-shadow: 0 5px #2FEEF5;
   transform: translateY(4px);
 }
 
-.jokesPageButtonTwo  {
+.boredPageButtonTwo  {
   display: inline-block;
   padding: 45px 80px;
   font-size: 28px;
@@ -49,9 +51,9 @@ button {
   box-shadow: 0 9px #2FEEF5;
 }
 
-.jokesPageButtonTwo:hover {background-color: rgb(148, 17, 95)}
+.boredPageButtonTwo:hover {background-color: rgb(148, 17, 95)}
 
-.jokesPageButtonTwo:active {
+.boredPageButtonTwo:active {
   background-color: white;
   box-shadow: 0 5px #2FEEF5;
   transform: translateY(4px);

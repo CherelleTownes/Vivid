@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import axios from "axios"
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header'
-import ButtonBoredReload from '../../stories/ButtonBored/ButtonBored';
+import {ButtonBoredReload, ButtonHumorMe}  from '../../stories/ButtonBored/ButtonBored';
 import { Route, Link } from "react-router-dom";
-import ButtonApp from '../../stories/ButtonApp/ButtonApp';
+import "./Bored.css";
 
 
 class Bored extends Component {
@@ -30,7 +30,7 @@ class Bored extends Component {
         <Link exact to="/"><p>Logo</p></Link> 
       </header>
 
-        <h1>THIS IS THE BORED PAGE</h1>
+        <h1 className="headerBored">THIS IS THE BORED PAGE</h1>
         <Header />
 
         <div>
@@ -42,23 +42,8 @@ class Bored extends Component {
           <h3>{results.participants}</h3>
         </div>
 
-        <Link to="/Bored"><ButtonBoredReload button="jokePageButtonOne" label="Give Me A Different Task" /></Link>
-        <Link to="/Jokes"><ButtonApp button="homePageButtonTwo" label="Humor Me"/></Link>
-
-        {/* <Route path="/" exact render={() => (
-        <>
-          <Link to="/Bored"><ButtonJokes button="jokePageButtonOne" label="I'm Bored, Give Me A Task Instead" /></Link>
-          <Link to="/Jokes"><ButtonJokes button="jokesPageButtonTwo" label="Humor Me Again" /></Link>      
-        </>
-      )} />
-      
-      <Route path="/Bored" render={() => (
-        <Bored/>
-      )} />
-       <Route path="/Jokes" render={() => (
-        <Jokes/>
-      )} /> */}
-
+        <Link to="/Bored"><ButtonBoredReload button="boredPageButtonOne" label="Give Me A Different Task" /></Link>
+        <Link to="/Jokes"><ButtonHumorMe button="boredPageButtonTwo" label="Humor Me"/></Link>
 
         <footer>
           <Footer />

@@ -4,5 +4,6 @@ import ButtonBoredReload from "./ButtonBored"
 
 
 storiesOf('ButtonBored', module)
-  .add('Button 1', () => <ButtonBoredReload button="jokePageButtonOne" label="Give Me A Different Task" />)
+  .add('Button 1', () => <ButtonBoredReload button="boredPageButtonOne" label="Give Me A Different Task" />)
+  .add('Button 1', () => <ButtonHumorMe button="boredPageButtonTwo" label="Humor Me" />)
   

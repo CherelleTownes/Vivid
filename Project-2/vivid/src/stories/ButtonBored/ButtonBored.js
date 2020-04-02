@@ -1,4 +1,5 @@
 import React from 'react';
+import "./ButtonBored.css";
 
 
 
@@ -8,4 +9,10 @@ const ButtonBoredReload = (props) => (
   </button>
 )
 
-export default ButtonBoredReload;
+const ButtonHumorMe = (props) => (
+  <button className={props.button} style={props.style}>
+    {props.label}
+  </button>
+)
+
+export { ButtonBoredReload, ButtonHumorMe };
