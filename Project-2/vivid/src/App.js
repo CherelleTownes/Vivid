@@ -1,47 +1,47 @@
 import React from 'react';
 import './App.css';
-import Main from "./Components/Main/Main"
-import Header from "./Components/Header/Header"
-import Footer from "./Components/Footer/Footer"
+import Main from "./Components/Main/Main";
+// import Header from "./Components/Header/Header"
+// import Footer from "./Components/Footer/Footer"
 import ButtonApp from './stories/ButtonApp/ButtonApp';
 import { Route, Link } from "react-router-dom";
-import Bored from "./Components/Bored/Bored"
-
-
-
-
+import Bored from './Components/Bored/Bored';
+import Jokes from './Components/Jokes/Jokes';
+// import Bored from "./Components/Bored/Bored";
+// import {BrowserRouter as Router } from "react-router-dom"
 
 function App () {
   return (
     <div>
 
       <header>
-        <Link to="/">
-        <p>Logo</p>
-        </Link> 
+        <Link exact to="/"><p>Logo</p></Link> 
       </header>
-      
-      <h1>THIS IS THE HOMEPAGE</h1>
 
-      <Main />
+  <h1>THIS IS OUTSIDE</h1>
+ <Route path="/" exact render={() => (
+        <>
+          <Main />
+          <Link to="/Bored"><ButtonApp button="homePageButtonOne" label="I'm Bored" /></Link>
+          <Link to="/Jokes"><ButtonApp button="homePageButtonTwo" label="Humor Me" /></Link>      
+        </>
+      )} />
       
-      <Link to="/Bored">
-        <ButtonApp button="homePageButtonOne" label="I'm Bored" />
-        </Link>
-      <ButtonApp button="homePageButtonTwo" label="Humor Me"/>
-      <main>
-        <Route path="/"component={App}/>
-        <Route path="/Bored"component={Bored}/>
-      </main>
+      <Route path="/Bored" render={() => (
+        <Bored/>
+      )} />
+       <Route path="/Jokes" render={() => (
+        <Jokes/>
+      )} />
+
     </div>
   );
 }
 
-
-
 export default App;
 
-
+// <Route path="/Profile/:heroId" render={(props) => (
+//           <Profile {...props} />
 // function App() {
   //   return (
   //     <div className="App">
